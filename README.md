@@ -1,4 +1,4 @@
-# Kalisteniczne-wi-ta
+# Kalisteniczne Święta
 Arcade Christmas Game
 
 You have to run away from non-sleeping children by arrows. When someone catches you - you fail. As Santa Clouse You have to leave presents for them by clicking space, so they won't follow you anymore. But remember, they would take a present only right after sleeping. You can pick the present by clicking space once again standing where the present is.
